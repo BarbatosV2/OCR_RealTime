@@ -17,7 +17,7 @@ TARGET_HEIGHT = 720
 
 prev_time = 0
 
-print("Press 'q' to quit.")
+print("Press 'q' to exit.")
 
 while True:
     current_time = time.time()
