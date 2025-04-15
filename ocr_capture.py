@@ -32,7 +32,7 @@ def get_next_filename():
         file_index += 1
 
 prev_time = 0
-print("Press 'q' to exit | Press 'C' to capture OCR text to file")
+print("Press 'q' to exit | Press 'c' to capture OCR text to file")
 
 while True:
     current_time = time.time()
@@ -78,7 +78,7 @@ while True:
 
     if key == ord('q'):  # 'q' to quit
         break
-    elif key == ord('c'):  # 'C' to capture
+    elif key == ord('c'):  # 'c' to capture
         captured_words = [text for (_, text, prob) in results if prob > 0.5]
         if captured_words:
             filepath = get_next_filename()
