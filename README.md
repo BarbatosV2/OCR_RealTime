@@ -12,7 +12,7 @@ ocr_capture also use screen feed for character recognition but I add a feature t
 
 Result
 
-![Screenshot from 2025-04-15 14-53-30](https://github.com/user-attachments/assets/4e1cffb6-4cca-43db-857d-eb9e78ff7310)
+![Screenshot from 2025-04-15 15-00-35](https://github.com/user-attachments/assets/4e0ccc08-6bfc-4a3b-bef4-64384d55e49a)
 
 How detection looks like 
 
