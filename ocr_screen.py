@@ -9,7 +9,7 @@ reader = easyocr.Reader(['en'], gpu=True)
 
 # Screen capture tool
 sct = mss.mss()
-monitor = sct.monitors[1]  # Full primary screen
+monitor = sct.monitors[1]  # Full primary screen (number depends on what screen to capture)
 
 # Target resolution
 TARGET_WIDTH = 1280
