@@ -10,4 +10,10 @@ ocr_capture also use screen feed for character recognition but I add a feature t
 
 # Test result for ocr_capture 
 
-![Screenshot from 2025-04-15 11-47-49](https://github.com/user-attachments/assets/1b06fae4-5ea2-4097-addb-b63913e96cc4)
+Result
+
+![Screenshot from 2025-04-15 14-53-30](https://github.com/user-attachments/assets/4e1cffb6-4cca-43db-857d-eb9e78ff7310)
+
+How detection looks like 
+
+![Screenshot from 2025-04-15 14-52-51](https://github.com/user-attachments/assets/7cab8530-2fea-4dbc-bac3-7b231c008e94)
