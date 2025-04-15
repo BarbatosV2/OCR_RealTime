@@ -16,7 +16,7 @@ if not cap.isOpened():
     print("Error: Cannot open camera.")
     exit()
 
-print("Press 'q' to quit.")
+print("Press 'q' to exit.")
 
 # Variables for FPS calculation
 prev_time = 0
